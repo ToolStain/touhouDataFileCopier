@@ -1,0 +1,92 @@
+[
+    {
+        "folderName": "Touhou 6  - The Embodiment of Scarlet Devil",
+        "varient": 1,
+        "num": "th6"
+    },
+    {
+        "folderName": "Touhou 7 - Perfect Cherry Blossom",
+        "varient": 1,
+        "num": "th7"
+    },
+    {
+        "folderName": "Touhou 7.5 - Immaterial and Missing Power",
+        "varient": 1,
+        "num": "th8"
+    },
+    {
+        "folderName": "Touhou 8 - Imperishable Night",
+        "varient": 1,
+        "num": "th8"
+    },
+    {
+        "folderName": "Touhou 9 - Phantasmagoria of Flower View",
+        "varient": 1,
+        "num": "th9"
+    },
+    {
+        "folderName": "Touhou 10 - Mountain of Faith",
+        "varient": 2,
+        "scoreFileName": "scoreth10.dat"
+    },
+    {
+        "folderName": "Touhou 10.5 - Scarlet Weather Rhapsody",
+        "varient": 1,
+        "num": "th105"
+    },
+    {
+        "folderName": "Touhou 11 - Subterranean Animism",
+        "varient": 2,
+        "scoreFileName": "scoreth11.dat"
+    },
+    {
+        "folderName": "Touhou 12 - Undefined Fantastic Object",
+        "varient": 2,
+        "scoreFileName": "scoreth12.dat"
+    },
+    {
+        "folderName": "Touhou 12.3 - Hisoutensoku",
+        "varient": 2,
+        "scoreFileName": "score123.dat"
+    },
+    {
+        "folderName": "th13",
+        "varient": 3,
+        "scoreFileName": "scoreth13.dat"
+    },
+    {
+        "folderName": "th14",
+        "varient": 3,
+        "scoreFileName": "scoreth14.dat"
+    },
+    {
+        "folderName": "th15",
+        "varient": 3,
+        "scoreFileName": "scoreth15.dat"
+    },
+    {
+        "folderName": "th16",
+        "varient": 3,
+        "scoreFileName": "scoreth16.dat"
+    },
+    {
+        "folderName": "th17",
+        "varient": 3,
+        "scoreFileName": "scoreth17.dat"
+    },
+    {
+        "folderName": "th18",
+        "varient": 3,
+        "scoreFileName": "scoreth18.dat"
+    },
+    {
+        "folderName": "th19",
+        "varient": 3,
+        "scoreFileName": "scoreth19.dat"
+    },
+    {
+        "folderName": "th20",
+        "varient": 3,
+        "scoreFileName": "scoreth20.dat"
+    }
+]
